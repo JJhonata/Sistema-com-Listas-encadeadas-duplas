@@ -32,6 +32,8 @@ livraria.c: Código principal com todas as funcionalidades e a interface gráfic
 style.css: (Opcional) Estilos customizados para a interface.
 logo.png: (Opcional) Imagem de logo exibida na tela inicial.
 
+🖥️ Video no youtube explicando informações: https://www.youtube.com/watch?v=ltJZ5JVjo0k
+
 👩‍💻 Desenvolvedores
 [José Jhonata Vieira de Oliveira]
 [Larissa Vieira de Oliveira]
