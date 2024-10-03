@@ -19,13 +19,12 @@ Compilar o Código
 Para compilar o projeto, execute o seguinte comando no terminal:
 
 bash
-Copiar código
 gcc -o livraria livraria.c `pkg-config --cflags --libs gtk+-3.0`
+
 Executar o Programa
 Após compilar, basta rodar o seguinte comando:
 
 bash
-Copiar código
 ./livraria
 
 🗂️ Arquivos do Projeto
