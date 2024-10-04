@@ -65,8 +65,8 @@ Se após a instalação houver problemas com os comandos `gcc` ou `pkg-config`, 
 
 Você pode adicionar o caminho manualmente executando o seguinte comando no terminal do MSYS2:
 
-```bash
-export PATH=/mingw64/bin:$PATH
+    ```bash
+    export PATH=/mingw64/bin:$PATH
 
 
 👩‍💻 Desenvolvedores
