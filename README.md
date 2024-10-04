@@ -51,6 +51,8 @@ No terminal MSYS2, instale o GTK3 e o conjunto de ferramentas de desenvolvimento
 
 
 3. Compilação e Execução
+   Navegue até o seu diretorio ex:cd /c/Users/Aluno/Desktop/atividade
+
    1. Compile o código usando o GCC no terminal MSYS2:
     ```bash
     gcc -o livraria livraria.c `pkg-config --cflags --libs gtk+-3.0`
